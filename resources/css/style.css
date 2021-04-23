@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #fff;
+    font-size: 50px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
